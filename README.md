@@ -19,4 +19,4 @@ It is worth mentioning that users can freely edit strings to adjust scripts to c
 
 # References  
 
-1. **OpenBabel** - [OpenBabel Documentation](https://open-babel.readthedocs.io/en/latest/Command-line_tools/babel.html)
+1. **OpenBabel** - [OpenBabel Documentation](http://openbabel.org/docs/Installation/install.html)
